@@ -1,0 +1,35 @@
+Coverage Report Summary Data by file
+
+=================================================================================
+=== File: ATMCODEHL2.v
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Stmts                           47        47         0     100.0
+    Branches                        37        37         0     100.0
+    FEC Condition Terms              7         2         5      28.5
+    FEC Expression Terms             0         0         0     100.0
+    FSMs                                                        95.4
+        States                      10        10         0     100.0
+        Transitions                 22        20         2      90.9
+    Toggle Bins                    266       202        64      75.9
+
+=================================================================================
+=== File: ATMTBCODEHL2.v
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Stmts                          312       312         0     100.0
+    Branches                         0         0         0     100.0
+    FEC Condition Terms              0         0         0     100.0
+    FEC Expression Terms             0         0         0     100.0
+    FSMs                                                       100.0
+        States                       0         0         0     100.0
+        Transitions                  0         0         0     100.0
+    Toggle Bins                    202       202         0     100.0
+
+
+TOTAL ASSERTION COVERAGE: 100.0%  ASSERTIONS: 4
+
+Total Coverage By File (code coverage only, filtered view): 82.0%
+
